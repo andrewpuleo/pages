@@ -3,10 +3,11 @@ layout: single
 title:  "Jupyter 'n Jekyll"
 ---
 
-# Jupyter 'n Jekyll
 > *Displaying your interactive sessions on a static blog*
 
 A match made in Heaven? You can download your Jupyter Notebooks, as MARKDOWN, HTML, and ASCII. From there, making a page or post is easy!
+
+> After attempting to make a post from the HTML output of this same notebook, I determined that downloading and using .md would be best for me.
 
 ```python
 import pandas as pd
@@ -190,4 +191,4 @@ plt.savefig('/Users/andrewpuleo/Desktop/myplot.pdf')
 ```
 
 
-![png](../my_plot.png)
+![png](../assets/images/my_plot.png)

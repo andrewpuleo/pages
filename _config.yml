@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Me"
   avatar           : /assets/images/profile_pic.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Me coding for fun!"
   location         : "San Luis Obispo, CA"
   email            : # ajpuleo@calpoly.edu
   links:

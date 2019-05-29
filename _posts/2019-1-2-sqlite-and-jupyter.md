@@ -10,7 +10,8 @@ Without further ado, here is a brief introduction to my independent studies this
 To begin, we will import `pandas` and `sqlite3`. Then we'll create a connection to our **SQLite** database. (For the sake of this tutorial, I will be using a SQLite database which I setup using [SQLite DB Browser](https://sqlitebrowser.org/).) With inspiration from *A Gentle Introduction to SQL Using SQLite*, this database contains several gigabytes of United States campaign finance data downloaded from [fec.gov](https://www.fec.gov/data/browse-data/?tab=bulk-data).   
 *Note:* I've placed the database in a folder in the same directory which we're working in. The directory tree looks like so:
 
-`.
+```
+.
 ├── cheat_sheets   
 │   ├── numpy.jpg   
 │   └── python-sklearn.png   
@@ -19,7 +20,7 @@ To begin, we will import `pandas` and `sqlite3`. Then we'll create a connection 
     ├── candidates.txt   
     ├── contributors_candidates.db   
     ├── contributors_with_candidate_id.txt
-`
+```
 
 
 ```python

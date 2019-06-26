@@ -2,6 +2,7 @@
 layout: single
 title:  "I just finished my first week as an intern at Workday"
 ---
+# Hello, Summer!
 
 ```c++
 #include <iostream>

@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "mint" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fun 'n Games"
+title                    : "AP"
 title_separator          : "-"
 name                     : "Andrew Puleo"
 description              : "My Pages"
@@ -106,33 +106,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Me"
-  avatar           : /assets/images/profile_pic.JPG # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Me coding for fun!"
+  name             : "Andrew Puleo"
+  avatar           : /assets/images/profile_pic.jpeg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "CSC @ Cal Poly"
   location         : "San Luis Obispo, CA"
-  email            : # ajpuleo@calpoly.edu
+  email            : #ajpuleo@calpoly.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ajpuleo@calpoly.edu"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file"
+      url: "https://drive.google.com/file/d/1d8HexL6qZeiG3vJkq1vqfdt17BQNuv8Z/view?usp=sharing"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/andrew_puleo1"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/andrewpuleo"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/andrew-puleo-b85208139/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/andrewpuleo"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/andrew.puleo"
+      # url: "https://www.instagram.com/andrew.puleo"
 
 # Site Footer
 footer:
